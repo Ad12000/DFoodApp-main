@@ -20,7 +20,7 @@ const Contact = () => {
             </div>
             <h1 className='text-white font-bold text-2xl'>Call Us</h1>
             <p className='text-white font-normal text-xl text-center'>24*7 at your service.</p>
-            <p className='text-orange-500  text-2xl font-bold text-center underline cursor-pointer'>+91 8175022207</p>
+            <p className='text-orange-500  text-2xl font-bold text-center underline cursor-pointer'>+91 987 654 3210</p>
         </div>
 
         <div className='flex flex-col justify-center items-center gap-4'>
